@@ -1,0 +1,6 @@
+{
+  "name": "Career Sprint - 3D VR Interview Room",
+  "description": "Realistic browser-based 3D VR interview room simulation built with React, Three.js, and WebXR for corporate interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
